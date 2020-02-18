@@ -4,6 +4,7 @@ main{
     /*learned about wrappers from https://css-tricks.com/best-way-implement-wrapper-css/  */
     margin-right: 320pt;
     margin-left:  340pt; 
+    background-color: aquamarine;
     
     }
     hr{
@@ -14,7 +15,7 @@ main{
     }
     .button{
         /* learned about buttons https://www.w3schools.com/css/css3_buttons.asp*/
-        background-color: lightgray;
+        background-color: rgb(112, 80, 80);
         padding: 10pt 25pt;
     }
     /* this is the rate box
